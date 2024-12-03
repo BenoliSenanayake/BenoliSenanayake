@@ -1,3 +1,4 @@
+![github-header-image.png](https://github.com/BenoliSenanayake/BenoliSenanayake/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Benoli Senanayake</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
