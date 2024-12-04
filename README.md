@@ -1,5 +1,7 @@
 ![github-header-image.png](https://github.com/BenoliSenanayake/BenoliSenanayake/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Benoli Senanayake</h1>
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benolisenanayake&label=Profile%20views&color=0e75b6&style=flat" alt="benolisenanayake" /> </p>
