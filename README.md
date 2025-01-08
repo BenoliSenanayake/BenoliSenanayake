@@ -1,5 +1,5 @@
 ![github-header-image.png](https://github.com/BenoliSenanayake/BenoliSenanayake/blob/main/github-header-image.png)
-<h1 align="center">Hello 👋, I'm Benoli J Senanayake. </h1>
+<h1 align="center">Hello 👋, I'm Benoli Senanayake. </h1>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <h3 align="center">A passionate web developer from Srilanka</h3>
