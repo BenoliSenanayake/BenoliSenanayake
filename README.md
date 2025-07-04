@@ -1,5 +1,5 @@
 ![github-header-image.png](https://github.com/BenoliSenanayake/BenoliSenanayake/blob/main/github-header-image.png)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%91%8B+Welcome+To+My+Github+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%91%8B+Welcome+To+My+GitHub+Profile" alt="Typing SVG" /></a>
 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
