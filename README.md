@@ -1,42 +1,69 @@
-![github-header-image.png](https://github.com/BenoliSenanayake/BenoliSenanayake/blob/main/github-header-image.png)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%91%8B+Welcome+To+My+GitHub+Profile" alt="Typing SVG" /></a>
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Benoli%20Senanayake%20💜&fontAlignY=40&color=6A0DAD&fontColor=ffffff)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=800&lines=Hey+There!+👋+I'm+Benoli+Senanayake;Software+Engineering+Undergraduate;Passionate+Web+Developer;Welcome+to+My+GitHub+Universe+💜" />
+</p>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+---
 
-<h3 align="center">A passionate web developer from Srilanka</h3>
+<img align="right" width="320" src="https://media.tenor.com/pgJp3CQ8FQMAAAAi/coding-typing.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benolisenanayake&label=Profile%20views&color=0e75b6&style=flat" alt="benolisenanayake" /> </p>
+## 💫 **About Me**
+- 🎓 Software Engineering Undergraduate at **NSBM Green University**
+- 🌱 Currently learning **MERN Stack**
+- 🖥️ Love building web apps & creative UIs  
+- ✨ Fun Fact: **You can call me Jini!**
+- 📧 Reach me: **benoli2002senanayake@gmail.com**
 
+---
 
+## 🎨 **Purple-Theme Languages & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,py,c,cs,dart,flutter,git,github,mysql,firebase,androidstudio,vscode,figma&theme=dark&perline=12"/>
+</p>
 
-- 🌱 I’m         currently learning **MERN**
+---
 
-- 📫 How to reach me **benoli2002senanayake@gmail.com**
+## 💜 **GitHub Stats (Purple Edition)**
 
-- ⚡ Fun fact **You can call me Jini**
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BenoliSenanayake&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BenoliSenanayake&theme=midnight-purple&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenoliSenanayake&theme=react-dark&area_color=bb86fc&point=ffffff&line=bb86fc&bg_color=000000" />
+</p>
+
+---
+
+### 🌌 **Visitors Counter**
 <p align="left">
-</p>
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cs,java,react,py,dart,flutter,git,github,tailwind,bootstrap,mysql,firebase,androidstudio,vscode,visualstudio,figma&theme=dark&perline=13"/>
- </a>
+  <img src="https://komarev.com/ghpvc/?username=BenoliSenanayake&color=6A0DAD&style=flat-square" />
 </p>
 
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
+### 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BenoliSenanayake&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📫 **Connect with Me**
+<p align="center">
+  <a href="mailto:benoli2002senanayake@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/BenoliSenanayake">
+    <img src="https://img.shields.io/badge/GitHub-9b59b6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BenoliSenanayake&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenoliSenanayake&theme=highcontrast&hide_border=true" alt="GitHub Streak">
-    
-</details>
-<br/>
-
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=6A0DAD" />
+</p>
