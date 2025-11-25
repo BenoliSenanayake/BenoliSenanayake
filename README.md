@@ -1,12 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Benoli%20Senanayake%20💜&fontAlignY=40&color=6A0DAD&fontColor=ffffff)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=800&lines=Hey+There!+👋+I'm+Benoli+Senanayake;Software+Engineering+Undergraduate;Passionate+Web+Developer;Welcome+to+My+GitHub+Universe+💜" />
-</p>
 
 ---
 
-<img align="right" width="320" src="https://media.tenor.com/pgJp3CQ8FQMAAAAi/coding-typing.gif"/>
 
 ## 💫 **About Me**
 - 🎓 Software Engineering Undergraduate at **NSBM Green University**
@@ -66,4 +62,27 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=6A0DAD" />
+</p>
+
+## 💜 Contribution Dashboard
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenoliSenanayake&theme=purple&area=true&hide_border=true" />
+ 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
+</p>
+## 🐍💜 Purple Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-dark-mode-only" 
+       style="filter: hue-rotate(250deg) saturate(2);" />
+</p>
+## 🐍💜 My Purple Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BenoliSenanayake/BenoliSenanayake/output/github-contribution-grid-snake-purple.svg" />
+</p>
+## 🐍💜 Purple Glow Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
+       style="filter: hue-rotate(260deg) brightness(1.3) saturate(1.6);" />
 </p>
