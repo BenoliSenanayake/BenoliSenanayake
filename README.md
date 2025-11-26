@@ -81,8 +81,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BenoliSenanayake/BenoliSenanayake/output/github-contribution-grid-snake-purple.svg" />
 </p>
-## 🐍💜 Purple Glow Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
-       style="filter: hue-rotate(260deg) brightness(1.3) saturate(1.6);" />
-</p>
