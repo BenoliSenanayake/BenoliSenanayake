@@ -64,10 +64,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=6A0DAD" />
 </p>
 
-## 💜 Contribution Dashboard
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenoliSenanayake&theme=purple&area=true&hide_border=true" />
- 
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
