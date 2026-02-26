@@ -69,7 +69,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
 </p>
-## 🐍💜 Purple Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-dark-mode-only" 
-       style="filter: hue-rotate(250deg) saturate(2);" />
+
